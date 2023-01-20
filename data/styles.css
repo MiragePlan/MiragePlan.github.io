@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -30,41 +30,42 @@
   color:#FFFFFF;
 }
 ._一级标题 {
-  font-family:'ArialMT', 'Arial', sans-serif;
-  font-weight:bold;
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:700;
   font-style:normal;
   font-size:32px;
-  text-align:left;
+  color:#C280FF;
+  text-align:center;
 }
 ._二级标题 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 ._三级标题 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 ._四级标题 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 ._五级标题 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 ._六级标题 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:10px;
@@ -75,7 +76,9 @@
   text-align:left;
 }
 ._文本段落 {
-  text-align:left;
+  font-size:24px;
+  color:#797979;
+  text-align:center;
 }
 .line {
 }
@@ -91,7 +94,7 @@
 ._表单禁用 {
 }
 .heading_3 {
-  font-family:'ArialMT', 'Arial', sans-serif;
+  font-family:'Arial Normal', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:18px;
@@ -107,5 +110,30 @@
 .shape {
 }
 .icon {
+}
+._大标题 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:48px;
+  color:#C280FF;
+  text-align:center;
+}
+._按钮1 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:center;
+}
+._按钮2 {
+  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:24px;
+  text-align:center;
+}
+._新的样式1 {
 }
 textarea, select, input, button { outline: none; }
